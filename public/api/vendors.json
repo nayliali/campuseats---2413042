@@ -1,0 +1,251 @@
+[
+ {
+    "id": "2413042-cafe-nayli",
+    "name": "Cafe Mahallah Halimah",
+    "location": "Mahallah Halimah",
+    "openHours": "8:00 am - 10:00 pm",
+    "isOpen": true,
+    "menu": [
+        { 
+            "id": "2413042-hal1", 
+            "name": "Nasi Ayam Penyet", 
+            "description": "Fried chicken with sambal and rice", 
+            "price": 6.5, 
+            "category": "Nasi", 
+            "available": true 
+        },
+        { 
+            "id": "2413042-hal2", 
+            "name": "Nasi Goreng Kampung", 
+            "description": "Fried rice with chicken and vegetables", 
+            "price": 6, 
+            "category": "Masakan Panas", 
+            "available": true 
+        },
+        { 
+            "id": "2413042-hal3", 
+            "name": "Teh O Ais", 
+            "description": "Iced tea", 
+            "price": 2.5, 
+            "category": "Drinks", 
+            "available": false 
+        },
+        { 
+            "id": "2413042-hal4", 
+            "name": "Sirap Bandung", 
+            "description": "Rose syrup with milk", 
+            "price": 3.0, 
+            "category": "Drinks", 
+            "available": true 
+        }
+    ]
+ },
+
+ {
+    "id": "2413042-cafe-nayli2",
+    "name": "Ihsan Hub Cafe",
+    "location": "Near Library",
+    "openHours": "8:00 am - 9:00 pm",
+    "isOpen": true,
+    "menu": [
+        { 
+            "id": "2413042-ihs1", 
+            "name": "Ayam Gunting", 
+            "description": "Fried chicken with chilli powder", 
+            "price": 9, 
+            "category": "Chicken", 
+            "available": true 
+        },
+        { 
+            "id": "2413042-ihs2", 
+            "name": "Nasi Lemak", 
+            "description": "Coconut rice with sambal and anchovies", 
+            "price": 3.50, 
+            "category": "Nasi", 
+            "available": true 
+        },
+        { 
+            "id": "2413042-ihs3", 
+            "name": "Mee Goreng", 
+            "description": "Fried noodles with chicken", 
+            "price": 5.50, 
+            "category": "Mee", 
+            "available": true 
+        },
+        { 
+            "id": "2413042-ihs4", 
+            "name": "Mango Smoothie", 
+            "description": "Fresh mango blended with milk", 
+            "price": 3.50, 
+            "category": "Drinks", 
+            "available": true 
+        },
+        { 
+            "id": "2413042-ihs5", 
+            "name": "Iced Chocolate", 
+            "description": "Iced chocolate with milk", 
+            "price": 3.00  , 
+            "category": "Drinks", 
+            "available": true 
+        }
+    ]
+},
+
+{
+  "id": "2418784-Kopi-Cup",
+  "name": "Kopi Cup",
+  "location": "Mahallah Bilal, Block C",
+  "openHours": "12:00 pm - 10:00 pm",
+  "isOpen": true,
+  "menu": [
+    { 
+        "id": "2418784-D1", 
+        "name": "Americano Black Panther",
+        "description": "Arabic Bean Aroma", 
+        "price": 4.5,
+        "category": "Drinks",
+        "available": true
+    },
+    { 
+        "id": "2418784-D2", 
+        "name": "Hazelnut Honey Latte", 
+        "description": "Import Bean from Rome with honey syrup",
+        "price": 6.5,
+        "category": "Drinks",
+        "available": true
+    },
+    { 
+        "id": "2418784-D3", 
+        "name": "Cappuccino Assasimo", 
+        "description": "Viral Cappucino with the hint of Chocolate",
+        "price": 9.0,
+        "category": "Drinks",
+        "available": true
+    },
+    { 
+        "id": "2418784-D4", 
+        "name": "Matcha Grass Latte", 
+        "description": "Matcha from Japan brew with Milk",
+        "price": 8.5,
+        "category": "Drinks",
+        "available": true
+    },
+    { 
+        "id": "2418784-D5", 
+        "name": "Mocha Muka", 
+        "description": "Typical mocha with smell of coffee slap through your face",
+        "price": 7.5,
+        "category": "Drinks",
+        "available": true
+    },
+
+    { 
+        "id": "2418784-P1", 
+        "name": "Caramel Mechamato Cake", 
+        "description": "Soft Chocolate Cake with Caramel Syrup",
+        "price": 8.0,
+        "category": "Pastries",
+        "available": true
+    },
+    { 
+        "id": "2418784-P2", 
+        "name": "Vanilla Cream Bread", 
+        "price": 5.5,
+        "category": "Pastries", 
+        "available": true, 
+        "description": "Japanese bread with vanilla cream" 
+    },
+    { 
+        "id": "2418784-P3", 
+        "name": "Thai Tea Sando", 
+        "price": 6.5,
+        "category": "Pastries", 
+        "available": true,  
+        "description": "Japanese bread with thai tea cream" 
+    },
+
+    { 
+        "id": "2418784-C1", 
+        "name": "Green Tea Cookies", 
+        "price": 4.0,
+        "category": "Cookies", 
+        "available": true, 
+        "description": "Black Cookies with Green Tea Toppings" },
+    { 
+        "id": "2418784-C2", 
+        "name": "Black Forest Cookies", 
+        "price": 4.0,
+        "category": "Cookies", 
+        "available": true, 
+        "description": "Chocolate Cookies with black forest brownies" },
+    { 
+        "id": "2418784-C3", 
+        "name": "Chocolate Bucket Cookies", 
+        "price": 7.0,
+        "category": "Cookies", 
+        "available": true, 
+        "description": "Small Chocolate cookies in a bucket" },
+
+    { 
+        "id": "2418784-H1", 
+        "name": "Chicken Wrap", 
+        "price": 6.0,
+        "category": "Sandwiches", 
+        "available": true,
+        "description": "Wrap with chicken, vegies, and mayo sauce" },
+    { 
+        "id": "2418784-H2", 
+        "name": "Beef Sandwich", 
+        "price": 3.5,
+        "category": "Sandwiches", 
+        "available": true, 
+        "description": "Sandwich with hot beef, vegies, and mayo sauce" },
+    { 
+        "id": "2418784-H3", 
+        "name": "Carbonara Samyang Wrap", 
+        "price": 7.5,
+        "category": "Sandwiches", 
+        "available": true, 
+        "description": "Wrap with carbonara samyang noodles, vegies, cheese, and mayo sauce" }
+    ]
+  },
+
+  {
+    "id": "2417864-gerai-minuman-safiah",
+    "name": "Gerai Minuman Safiah",
+    "location": "Mahallah Hafsah",
+    "openHours": "8:00 am - 11:00 pm",
+    "isOpen": true,
+    "menu": [
+      {
+        "id": "2417864-m1",
+        "name": "Latte",
+        "price": 4.0,
+        "category": "Drinks",
+        "popular": true,
+        "description": "A refreshing cup of latte.",
+        "available": true
+      },
+      {
+        "id": "2417864-m2",
+        "name": "Nasi Lemak Ikan Bilis",
+        "price": 5.0,
+        "category": "Food",
+        "popular": true,
+        "description": "Nasi lemak with crispy anchovies.",
+        "available": true
+      },
+      {
+        "id": "2417864-m3",
+        "name": "Ice Chocolate",
+        "price": 5.0,
+        "category": "Drinks",
+        "popular": true,
+        "description": "Delicious ice chocolate.",
+        "available": true
+      }
+    ]
+  }
+
+]
+
