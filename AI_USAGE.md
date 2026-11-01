@@ -28,3 +28,17 @@ Deepseek
 
 - One thing the AI got wrong and how I fixed it:
 
+## Week 4
+- What I asked for:
+    1. Why page is blank
+
+- What I kept, changed or rejected, and why:
+    1. I changed the (') to (`)
+
+
+- One thing the AI got wrong and how I fixed it:
+    1.  AI assume that the number badge does not appeared because of CSS bug. Actually its an error in the Header.jsx. 
+        I fixed it by add "{count}" in the <span> tag.
+
+
+
